@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+tareas.json
+tareas_test.json
+.vscode/
